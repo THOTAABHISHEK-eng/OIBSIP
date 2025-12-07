@@ -1,4 +1,3 @@
-# BMI Calculator by Abhishek
 
 def compute_bmi(weight, height):
     return weight / (height ** 2)
